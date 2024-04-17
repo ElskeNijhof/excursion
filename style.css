@@ -13,6 +13,7 @@ h1{
   line-height: 60px;
   margin: 0px;
 }
+
 h2{
   color: #ffffff;
   font-family: 'Open Sans',sans-serif;
@@ -22,7 +23,7 @@ h2{
 }
 
 p{
-  color: white;
+  color: rgb(235, 14, 224);
   font-family: 'Open Sans',sans-serif;
   font-size: 16px;
   font-weight: 100;
